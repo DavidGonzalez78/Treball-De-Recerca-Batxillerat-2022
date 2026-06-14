@@ -10,6 +10,8 @@ El tema principal del trabajo es la criptografía, la ciencia de proteger y hace
 
 Como proyecto final, se diseña e implementa en Python un algoritmo de cifrado propio basándose en los principios estudiados durante la investigación, que intenta cumplir los requisitos de seguridad de los algoritmos modernos. 
 
+---
+
 
 ### English
 
