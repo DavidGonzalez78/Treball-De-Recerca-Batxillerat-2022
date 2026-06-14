@@ -2,7 +2,7 @@
 
 ### Español
 
-**Enlace al proyecto completo**: [Documento completo](./docs/TDR_David_Gonzalez.pdf)
+**Enlace al proyecto completo**: [Documento completo](./TDR_David_Gonzalez.pdf)
 
 Este proyecto corresponde a mi trabajo de investigación (_Treball de Recerca_) realizado durante el bachillerato (2021-2023) en el _Institut de Santa Coloma de Farners_ y fue desarrollado durante el verano de 2022. Fue realizado antes de comenzar el _Grado en Ciencia e Ingeniería de Datos_ en la UPC, pero está muy relacionado con muchas áreas de la carrera. El trabajo se conserva plenamente en su estado original y refleja los conocimientos e intereses que tenía durante esa etapa. 
 
@@ -13,7 +13,7 @@ Como proyecto final, se diseña e implementa en Python un algoritmo de cifrado p
 
 ### English
 
-**Link to the full project**: [Documento completo](./docs/TDR_David_Gonzalez.pdf)
+**Link to the full project**: [Documento completo](./TDR_David_Gonzalez.pdf)
 
 This project corresponds to my research project (Treball de Recerca), carried out during high school (2021–2023) at Institut de Santa Coloma de Farners and developed during the summer of 2022. It was completed before starting my Bachelor's Degree in Data Science and Engineering at UPC, but it is closely related to many of the topics covered in the degree. This work is fully preserved in its original state and reflects the knowledge and interests I had at that stage of my life.
 
